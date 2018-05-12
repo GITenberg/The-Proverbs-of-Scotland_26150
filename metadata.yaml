@@ -1,0 +1,28 @@
+_repo: The-Proverbs-of-Scotland_26150
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hislop, Alexander
+    alias: Hislop, A. (Alexander)
+    birthdate: 1807
+    deathdate: 1865
+    gutenberg_agent_id: '31827'
+    url: http://www.gutenberg.org/2009/agents/31827
+description: ''
+gutenberg_issued: '2008-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26150'
+  lccn: '13021628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Proverbs, Scottish'
+- !lcc 'PN'
+title: The Proverbs of Scotland
+url: http://www.gutenberg.org/ebooks/26150
